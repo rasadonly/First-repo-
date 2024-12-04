@@ -1,0 +1,191 @@
+[29-Nov-24 19:01:36 - WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[29-Nov-24 19:01:36 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002117461833
+[29-Nov-24 19:01:36 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[29-Nov-24 19:02:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[30-Nov-24 10:04:16 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[30-Nov-24 10:09:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[01-Dec-24 22:01:42 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:10:13 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:10:59 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:10:59 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:11:38 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:16:51 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:16:51 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:17:01 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:18:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:18:22 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:18:30 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:18:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:18:45 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:18:55 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:27:53 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:27:53 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:28:01 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:30:28 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'html'
+Traceback (most recent call last):
+  File "C:\Users\prasa\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\prasa\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "E:\tl\File-Sharing-Bot-main\File-Sharing-Bot-main\plugins\start.py", line 61, in start_command
+    ) if CUSTOM_CAPTION and msg.document else msg.caption.html
+                                              ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'html'
+[01-Dec-24 22:31:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:31:39 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:35:54 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:36:33 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:36:33 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:36:42 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:46:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:46:57 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:47:05 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:47:12 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:47:13 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:47:22 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:47:29 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[01-Dec-24 22:52:00 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:52:00 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:52:40 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:53:06 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:53:06 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:53:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:53:55 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 22:53:55 - INFO] - bot - Bot stopped.
+[01-Dec-24 22:54:04 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 22:54:18 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[01-Dec-24 23:00:00 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[01-Dec-24 23:01:15 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[01-Dec-24 23:03:29 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Dec-24 23:03:30 - INFO] - bot - Bot stopped.
+[01-Dec-24 23:20:05 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:02:49 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:06:13 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:06:13 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:06:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:07:31 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:07:32 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:07:42 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:10:43 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:11:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:13:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:13:57 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:14:20 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:15:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:15:57 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:16:10 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:16:17 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[03-Dec-24 01:18:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:18:40 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:20:30 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:22:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:22:57 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:23:05 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:23:46 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[03-Dec-24 01:25:17 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:25:17 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:25:26 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:25:38 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[03-Dec-24 01:51:28 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:51:28 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:51:38 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 01:57:32 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 01:57:32 - INFO] - bot - Bot stopped.
+[03-Dec-24 01:57:41 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[03-Dec-24 02:13:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Dec-24 02:13:43 - INFO] - bot - Bot stopped.
+[03-Dec-24 02:13:52 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
